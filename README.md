@@ -3,6 +3,9 @@
 A teaching project that upgrades a simple 3-feature HDB price model into a more
 accurate, honestly-evaluated one — and deploys it as a Streamlit web app.
 
+> 📍 **Note:** this add-on steps *outside* the NorthStar Retail story. It uses a Singapore **HDB resale housing** example instead — the techniques (honest evaluation, better features, deployment) are the same ones Sarah uses.
+
+
 Built as a 2-hour coaching add-on for **Module 3 · Machine Learning & GenAI**,
 continuing from the C3.1 predictor.
 
